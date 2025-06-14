@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renzodvs
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Databricks, PySpark
 - 📫 How to reach me https://www.linkedin.com/in/renzo-ventura-sipion-867b5913b/
 
 <!---
